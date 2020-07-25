@@ -2,10 +2,30 @@ import React, { Component } from 'react'
 
 class AutoScalingText extends Component {
 
+  componentDidUpdate() {}
+  render() {}
+
 }
 
-class CalculatorKay extends Component {
-  
+class CalculatorDisplay extends Component {
+  render() {}
 }
 
-export default App;
+class CalculatorKey extends Component {
+  render() {}
+}
+
+class Calculator extends Component {
+  clearAll() {}
+  clearDisplay() {}
+  clearLastChar() {}
+  toggleSign() {}
+  inputPercent() {}
+  inputDot() {}
+  inputDigit(digit) {}
+  performOperation(nextOperator) {}
+  handleKeyDown = (event) => {}
+  componentDidMount() {}
+  componentWillUnmount() {}
+  render() {}
+}
