@@ -4,7 +4,7 @@ Calculators are not only one of the most useful tools available, but they are al
 
 The styling is up to you so use your imagination and get creative! You might also find it worth your time to experiment with the calculator app on your mobile device to better understand basic functionality and edge cases.
 
-## Available Scripts
+## 🚀 Starting
 
 In the project directory, you can run:
 
