@@ -1,46 +1,67 @@
-# Getting Started with Create React App
+# Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Calculators are not only one of the most useful tools available, but they are also a great way to understand UI and event processing in an application. In this problem you will create a calculator that supports basic arithmetic calculations on integers.
 
-## Available Scripts
+The styling is up to you so use your imagination and get creative! You might also find it worth your time to experiment with the calculator app on your mobile device to better understand basic functionality and edge cases.
 
-In the project directory, you can run:
+## 🚀 Starting
 
-### `npm start`
+These instructions allowed you to get a copy of the project running on your local machine for development and testing purposes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 📋 Prerequisites
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The following programs are required to use and modify the project.
 
-### `npm test`
+- [Git](https://git-scm.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [NodeJs](https://nodejs.org/en/)
 
-### `npm run build`
+- [NPM](https://nodejs.org/en/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🔧 Instalation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+A series of step-by-step examples that tell you what you must do to get a development environment running.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+# Clone this repository
+$ git clone https://github.com/mateus2a/calculator calculator
 
-### `npm run eject`
+# Access the project folder in the terminal/cmd
+$ cd calculator
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Install dependencies
+$ npm install
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Run the application
+$ npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🎥 Demonstration
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<kbd>
+  <img width="500" style="border-radius: 5px" height="400" alt="Demonstração do Aplicativo Bin2Dec" src=".github/demo.gif">
+</kbd>
 
-## Learn More
+## 🛠️ Technologies used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The following tools were used in the construction of the project:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- [React](https://pt-br.reactjs.org/docs/getting-started.html)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
+
+## ✒️ Authors
+
+Here are all the contributors to the project.
+
+- **Mateus Alencar** - _Initial Work, Documentation_ - [mateus2a](https://github.com/mateus2a)
+
+## 📄 License
+
+This project is under the MIT license - see the [LICENSE.md](https://github.com/mateus2a/Bin2Dec/blob/master/LICENSE) file for details.
+
+---
+
+By [Mateus Alencar](https://github.com/mateus2a)
