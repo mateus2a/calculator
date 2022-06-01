@@ -6,7 +6,7 @@ The styling is up to you so use your imagination and get creative! You might als
 
 ## 🚀 Starting
 
-In the project directory, you can run:
+These instructions allowed you to get a copy of the project running on your local machine for development and testing purposes.
 
 ### `npm start`
 
