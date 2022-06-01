@@ -51,3 +51,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 Here are all the contributors to the project.
 
 - **Mateus Alencar** - _Initial Work, Documentation_ - [mateus2a](https://github.com/mateus2a)
+
+## 📄 License
+
+This project is under the MIT license - see the [LICENSE.md](https://github.com/mateus2a/Bin2Dec/blob/master/LICENSE) file for details.
+
+---
+
+By [Mateus Alencar](https://github.com/mateus2a)
