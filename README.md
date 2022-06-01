@@ -18,20 +18,23 @@ The following programs are required to use and modify the project.
 
 - [NPM](https://nodejs.org/en/)
 
-### `npm test`
+### 🔧 Instalation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A series of step-by-step examples that tell you what you must do to get a development environment running.
 
-### `npm run build`
+```
+# Clone this repository
+$ git clone https://github.com/mateus2a/calculator calculator
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Access the project folder in the terminal/cmd
+$ cd calculator
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Install dependencies
+$ npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Run the application
+$ npm start
+```
 
 ### `npm run eject`
 
