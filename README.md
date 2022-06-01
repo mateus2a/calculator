@@ -8,13 +8,15 @@ The styling is up to you so use your imagination and get creative! You might als
 
 These instructions allowed you to get a copy of the project running on your local machine for development and testing purposes.
 
-### `npm start`
+### 📋 Prerequisites
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The following programs are required to use and modify the project.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [Git](https://git-scm.com/)
+
+- [NodeJs](https://nodejs.org/en/)
+
+- [NPM](https://nodejs.org/en/)
 
 ### `npm test`
 
