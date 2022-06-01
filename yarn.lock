@@ -4912,6 +4912,11 @@ internal-slot@^1.0.3:
     has "^1.0.3"
     side-channel "^1.0.4"
 
+ios-calculator-for-web@^1.2.8:
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/ios-calculator-for-web/-/ios-calculator-for-web-1.2.8.tgz#17c65d10b29bc26c6136cc54b02c34e6a33deb6e"
+  integrity sha512-eBs+u6UQC0ZNzByVXPeq6Ub90t47s3GN6N9hdQ1eSSfUOmgfbr4qwpa1GDt3uqQLza21MsWX7NkQQi7A5UbmsQ==
+
 ipaddr.js@1.9.1:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/ipaddr.js/-/ipaddr.js-1.9.1.tgz#bff38543eeb8984825079ff3a2a8e6cbd46781b3"
