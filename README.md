@@ -36,12 +36,6 @@ $ npm install
 $ npm start
 ```
 
-## 🎥 Demonstration
-
-<kbd>
-  <img width="500" style="border-radius: 5px" height="400" alt="Demonstração do Aplicativo Bin2Dec" src=".github/demo.gif">
-</kbd>
-
 ## 🛠️ Technologies used
 
 The following tools were used in the construction of the project:
